@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638819178 source:c:\users\micha³\documents\semestr v\zaawansowane programawienie w c++\powtorzenie 1\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+

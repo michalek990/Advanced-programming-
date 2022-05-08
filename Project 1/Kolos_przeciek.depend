@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1638890782 source:c:\users\micha許documents\semestr v\zaawansowane programawienie w c++\kolos_przeciek\main.cpp
+	<iostream>
+	"Dziecko.h"
+	"Prezent.h"
+	<vector>
+	<algorithm>
+	<set>
+
+1638886136 source:c:\users\micha許documents\semestr v\zaawansowane programawienie w c++\kolos_przeciek\dziecko.cpp
+	"Dziecko.h"
+	<iostream>
+	<set>
+
+1638886135 c:\users\micha許documents\semestr v\zaawansowane programawienie w c++\kolos_przeciek\dziecko.h
+	<string>
+	<vector>
+
+1638887695 source:c:\users\micha許documents\semestr v\zaawansowane programawienie w c++\kolos_przeciek\prezent.cpp
+	"Prezent.h"
+	<iostream>
+	<set>
+
+1638887367 c:\users\micha許documents\semestr v\zaawansowane programawienie w c++\kolos_przeciek\prezent.h
+	<string>
+	<vector>
+
